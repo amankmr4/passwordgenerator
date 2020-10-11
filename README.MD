@@ -35,11 +35,11 @@ No Licences were used for this homeowrk
 ​
 ### Link to the App
 <a href="https://amankmr4.github.io/passwordgenerator/">Link to the Website</a>
-https://amankmr4.github.io/Portfolio_hw_2/
+https://amankmr4.github.io/passwordgenerator/
 
 <hr>
-<a href="https://github.com/amankmr4/Portfolio_hw_2.git">Link to the GitRepository</a>
-https://github.com/amankmr4/Portfolio_hw_2.git
+<a href="https://github.com/amankmr4/passwordgenerator.git">Link to the GitRepository</a>
+https://github.com/amankmr4/passwordgenerator.git
 
 <hr>
 ​
