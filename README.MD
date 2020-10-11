@@ -34,7 +34,7 @@ The following image demonstrates the application functionality:
 No Licences were used for this homeowrk 
 ​
 ### Link to the App
-<a href="https://amankmr4.github.io/Portfolio_hw_2/">Link to the Website</a>
+<a href="https://amankmr4.github.io/passwordgenerator/">Link to the Website</a>
 https://amankmr4.github.io/Portfolio_hw_2/
 
 <hr>
